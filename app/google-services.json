@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "846820108199",
+    "firebase_url": "https://testuinow.firebaseio.com",
+    "project_id": "testuinow",
+    "storage_bucket": "testuinow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846820108199:android:56a0cc3da8c2ec6b",
+        "android_client_info": {
+          "package_name": "com.ashok.testuinow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846820108199-5v2iqlptp8lsoudopq4mqm3hv57ephja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmH6QhHgwZY6bK7Q-IjO885W2MzI4039g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
