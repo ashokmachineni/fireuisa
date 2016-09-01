@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         mBlogList.setLayoutManager(new LinearLayoutManager(this));
 
 
+       
+
     }
 
     @Override
@@ -52,7 +54,10 @@ public class MainActivity extends AppCompatActivity {
         };
         mBlogList.setAdapter(firebaseRecyclerAdapter);
 
+
     }
+
+
 
     public static class BlogViewHolder extends RecyclerView.ViewHolder{
         View mView;
@@ -77,5 +82,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+
 
 }
